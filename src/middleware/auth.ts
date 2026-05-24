@@ -2,6 +2,7 @@ import type { Request, Response, NextFunction } from "express";
 import jwt from "jsonwebtoken";
 import { sendResponse } from "../utils/sendResponce";
 import config from "../config";
+import type { JwtPayload } from "../types";
 
 export const authMiddleware = (
   req: Request,
@@ -20,7 +21,7 @@ export const authMiddleware = (
     }
 
     const decoded = jwt.verify(token, config.jwt_secret);
-    req.user = decoded as any;
+    req.user = decoded as JwtPayload;
     next();
   } catch (error: any) {
     sendResponse(

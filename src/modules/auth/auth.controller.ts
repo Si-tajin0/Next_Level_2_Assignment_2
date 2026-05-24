@@ -2,6 +2,7 @@ import type { Request, Response } from "express";
 import { authService } from "./auth.service";
 import { sendResponse } from "../../utils/sendResponce";
 
+//create a signup user
 const signupUser = async (req: Request, res: Response) => {
   try {
     const { name, email, password, role } = req.body;
@@ -40,6 +41,8 @@ const signupUser = async (req: Request, res: Response) => {
     );
   }
 };
+
+// sign in login user
 const loginUser = async (req: Request, res: Response) => {
   try {
     const { email, password } = req.body;

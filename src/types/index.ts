@@ -40,6 +40,20 @@ export interface Issue {
   updated_at: string;
 }
 
+export interface IssueWithReporter extends Omit<Issue, "reporter_id"> {
+  reporter: {
+    id: number;
+    name: string;
+    role: string;
+  };
+}
+
+export interface JwtPayload {
+  id: number;
+  name: string;
+  email: string;
+  role: string;
+}
 export interface CreateIssueRequest {
   title: string;
   description: string;

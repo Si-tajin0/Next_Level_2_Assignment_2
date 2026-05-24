@@ -5,6 +5,7 @@ export const pool = new Pool({
   connectionString: config.database_url,
 });
 
+// Create a table users
 export const initDB = async () => {
   try {
     await pool.query(`
@@ -19,6 +20,7 @@ export const initDB = async () => {
     )
   `);
 
+    // create a issues
     await pool.query(`
     CREATE TABLE IF NOT EXISTS issues(
       id SERIAL PRIMARY KEY,

@@ -114,3 +114,73 @@
 [2026-05-23T14:33:50.863Z] DELETE /api/issues/2 - IP: ::1
 
 [2026-05-23T14:33:57.006Z] GET /api/issues/2 - IP: ::1
+
+[2026-05-24T05:24:15.540Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T05:24:37.656Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T05:24:59.552Z] GET /api/issues - IP: ::1
+
+[2026-05-24T05:25:17.627Z] GET /api/issues - IP: ::1
+
+[2026-05-24T05:25:31.641Z] GET /api/issues - IP: ::1
+
+[2026-05-24T05:25:50.449Z] POST /api/issues - IP: ::1
+
+[2026-05-24T05:26:19.978Z] GET /api/sort=newest - IP: ::1
+
+[2026-05-24T05:26:41.547Z] GET /api/issues - IP: ::1
+
+[2026-05-24T05:27:16.322Z] GET /api/issues/2 - IP: ::1
+
+[2026-05-24T05:27:20.682Z] GET /api/issues/3 - IP: ::1
+
+[2026-05-24T05:28:01.309Z] PATCH /api/issues/3 - IP: ::1
+
+[2026-05-24T05:29:06.443Z] DELETE /api/issues/3 - IP: ::1
+
+[2026-05-24T05:30:45.015Z] POST / - IP: ::1
+
+[2026-05-24T06:04:26.749Z] POST /api/auth/signup - IP: ::1
+
+[2026-05-24T06:04:38.308Z] POST /api/auth/signup - IP: ::1
+
+[2026-05-24T06:05:09.073Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T06:05:59.875Z] POST /api/issues - IP: ::1
+
+[2026-05-24T06:06:29.855Z] GET /api/issues - IP: ::1
+
+[2026-05-24T06:06:51.710Z] GET /api/issues/1 - IP: ::1
+
+[2026-05-24T06:07:21.813Z] PATCH /api/issues/1 - IP: ::1
+
+[2026-05-24T06:10:50.915Z] POST /api/auth/signup - IP: ::1
+
+[2026-05-24T06:11:53.329Z] PATCH /api/issues/1 - IP: ::1
+
+[2026-05-24T06:12:23.350Z] PATCH /api/issues/1 - IP: ::1
+
+[2026-05-24T06:12:47.727Z] PATCH /api/issues - IP: ::1
+
+[2026-05-24T06:12:54.771Z] GET /api/issues - IP: ::1
+
+[2026-05-24T06:13:56.743Z] PATCH /api/issues/1 - IP: ::1
+
+[2026-05-24T06:21:00.991Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T06:21:37.189Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T06:22:02.555Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T06:23:13.343Z] POST /api/issues - IP: ::1
+
+[2026-05-24T06:23:42.331Z] GET /api/issues - IP: ::1
+
+[2026-05-24T06:24:28.300Z] PATCH /api/issues/1 - IP: ::1
+
+[2026-05-24T06:25:15.908Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T06:25:53.064Z] GET /api/issues - IP: ::1
+
+[2026-05-24T06:29:41.515Z] DELETE /api/issues/1 - IP: ::1
