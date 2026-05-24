@@ -184,3 +184,7 @@
 [2026-05-24T06:25:53.064Z] GET /api/issues - IP: ::1
 
 [2026-05-24T06:29:41.515Z] DELETE /api/issues/1 - IP: ::1
+
+[2026-05-24T06:50:53.279Z] POST /api/auth/login - IP: ::1
+
+[2026-05-24T06:51:32.420Z] GET /api/metrics - IP: ::1
