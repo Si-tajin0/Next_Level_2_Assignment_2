@@ -18,7 +18,7 @@ app.get("/", (req: Request, res: Response) => {
   // res.send("Hello World");
   res.status(200).json({
     message: "Assignment 2",
-    author: "Next Level",
+    author: "SI TAJIN",
   });
 });
 app.use("/api/auth", authRoute);
