@@ -3,7 +3,7 @@
 A collaborative platform for software teams to report bugs, suggest features, and coordinate resolutions.
 
 ## Live URL
-`https://your-deployment-url.vercel.app`
+`https://next-level-2-assignment-2.vercel.app`
 
 ## Tech Stack
 - Node.js
