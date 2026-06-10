@@ -204,3 +204,67 @@
 [2026-05-24T07:20:37.584Z] GET /api/issues - IP: ::ffff:127.0.0.1
 
 [2026-05-24T07:20:44.812Z] GET / - IP: ::ffff:127.0.0.1
+
+[2026-05-29T12:17:16.202Z] GET / - IP: ::ffff:127.0.0.1
+
+[2026-06-10T10:45:11.955Z] GET /api/issues - IP: ::1
+
+[2026-06-10T10:46:05.796Z] POST /api/issues - IP: ::1
+
+[2026-06-10T10:50:13.654Z] POST /api/issues - IP: ::1
+
+[2026-06-10T10:51:39.327Z] POST /api/auth/login - IP: ::1
+
+[2026-06-10T10:52:22.783Z] POST /api/issues - IP: ::1
+
+[2026-06-10T10:53:36.907Z] POST /api/issues - IP: ::1
+
+[2026-06-10T10:54:31.563Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:28:41.404Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:31:02.462Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:31:06.795Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:31:21.129Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:38:26.009Z] POST /api/auth/login - IP: ::1
+
+[2026-06-10T11:39:01.175Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:39:04.561Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:39:52.070Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:41:56.792Z] POST /api/auth/login - IP: ::1
+
+[2026-06-10T11:42:22.417Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:43:23.454Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:43:27.597Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:43:52.028Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:44:18.561Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:44:51.266Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:45:40.771Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:45:41.882Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:45:54.809Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:47:43.798Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:49:24.536Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:52:49.618Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:53:00.409Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:53:25.401Z] POST /api/issues - IP: ::1
+
+[2026-06-10T11:53:58.340Z] POST /api/issues - IP: ::1

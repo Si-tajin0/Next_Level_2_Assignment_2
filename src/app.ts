@@ -21,6 +21,7 @@ app.get("/", (req: Request, res: Response) => {
     author: "SI TAJIN",
   });
 });
+
 app.use("/api/auth", authRoute);
 app.use("/api/issues", issuesRouter);
 app.use("/api/metrics", metricsRouter);

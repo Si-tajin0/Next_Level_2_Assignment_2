@@ -10,7 +10,10 @@ export const authMiddleware = (
   next: NextFunction,
 ) => {
   try {
-    const token = req.headers.authorization?.split(" ")[1];
+    const authHeader = req.headers.authorization;
+    const token = authHeader?.startsWith("Bearer ")
+      ? authHeader.split(" ")[1]
+      : authHeader;
 
     if (!token) {
       return sendResponse(
